@@ -21,6 +21,6 @@ Para correr las pruebas y generar reportes automáticamente, puedes usar el sigu
 ```bash
 locust -f main.py
 
-Te muestra el servidor y lo abres en tu navehador para correr la prueba.
+Te muestra el servidor y lo abres en tu navegador para correr la prueba.
 
 
