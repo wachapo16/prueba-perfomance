@@ -13,7 +13,6 @@ Para ejecutar las pruebas de rendimiento, necesitarás instalar [Locust](https:/
 ## Instalación de Locust
 
 Puedes instalar Locust usando pip:
-```bash
 pip install locust
 
 ## Comandos para ejecución de pruebas
@@ -21,5 +20,7 @@ pip install locust
 Para correr las pruebas y generar reportes automáticamente, puedes usar el siguiente comando en tu terminal:
 ```bash
 locust -f main.py
+
+Te muestra el servidor y lo abres en tu navehador para correr la prueba.
 
 
